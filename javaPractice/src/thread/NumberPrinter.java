@@ -1,5 +1,5 @@
+package thread;
 import java.util.concurrent.Callable;
-
 public class NumberPrinter implements Runnable {
     private int numberToPrint;
 
