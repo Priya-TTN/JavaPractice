@@ -1,5 +1,5 @@
+package thread;
 import java.util.function.Function;
-
 public class MethodReference {
     public static Integer square(Integer number) {
         return number * number;
